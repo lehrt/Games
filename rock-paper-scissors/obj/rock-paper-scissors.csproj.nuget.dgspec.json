@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\therr\\Desktop\\Visual-Studio\\unit_1\\Random practice\\Challenges\\rock-paper-scissors\\rock-paper-scissors\\rock-paper-scissors\\rock-paper-scissors.csproj": {}
+    "/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/rock-paper-scissors/rock-paper-scissors/rock-paper-scissors/rock-paper-scissors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\therr\\Desktop\\Visual-Studio\\unit_1\\Random practice\\Challenges\\rock-paper-scissors\\rock-paper-scissors\\rock-paper-scissors\\rock-paper-scissors.csproj": {
+    "/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/rock-paper-scissors/rock-paper-scissors/rock-paper-scissors/rock-paper-scissors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\therr\\Desktop\\Visual-Studio\\unit_1\\Random practice\\Challenges\\rock-paper-scissors\\rock-paper-scissors\\rock-paper-scissors\\rock-paper-scissors.csproj",
+        "projectUniqueName": "/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/rock-paper-scissors/rock-paper-scissors/rock-paper-scissors/rock-paper-scissors.csproj",
         "projectName": "rock-paper-scissors",
-        "projectPath": "C:\\Users\\therr\\Desktop\\Visual-Studio\\unit_1\\Random practice\\Challenges\\rock-paper-scissors\\rock-paper-scissors\\rock-paper-scissors\\rock-paper-scissors.csproj",
-        "packagesPath": "C:\\Users\\therr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\therr\\Desktop\\Visual-Studio\\unit_1\\Random practice\\Challenges\\rock-paper-scissors\\rock-paper-scissors\\rock-paper-scissors\\obj\\",
+        "projectPath": "/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/rock-paper-scissors/rock-paper-scissors/rock-paper-scissors/rock-paper-scissors.csproj",
+        "packagesPath": "/Users/theresalehr/.nuget/packages/",
+        "outputPath": "/Users/theresalehr/Desktop/Visual Studio/unit_1/Random practice/Challenges/rock-paper-scissors/rock-paper-scissors/rock-paper-scissors/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\therr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/theresalehr/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -53,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

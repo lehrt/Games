@@ -22,6 +22,11 @@ namespace rock_paper_scissors
                 Console.WriteLine("Let's play hangman! Guess the word.");
                 Hangman.HangMan();
             }
+            //else if (game == "magic 8 ball")
+            //{
+            //    Console.WriteLine("Playing magic 8 ball!");
+            //    magic_8_ball.magicEightBall();
+            //}
             else
             {
                 Console.WriteLine("No game selected");
